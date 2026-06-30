@@ -21,10 +21,10 @@
 | 💻 Hard Skills | 🧠 Soft Skills |
 | :--- | :--- |
 | • SOLIDWORKS (3D Design) | • ทำงานร่วมกับผู้อื่นได้ (Teamwork) |
-| • Python | • มีความคิดสร้างสรรค์ (Creativity) |
+| • Python 1 | • มีความคิดสร้างสรรค์ (Creativity) |
 | • C/C++ | • บริหารเวลาเป็น (Time Management) |
 | • HTML + CSS | • ควบคุมอารมณ์ตัวเองได้ดี (Emotional Control) |
-| • ความรู้พื้นฐาน Security | • มีความยืดหยุ่นในการใช้เทคโนโลยี (Tech Flexibility) |
+| • Security 1 | • มีความยืดหยุ่นในการใช้เทคโนโลยี (Tech Flexibility) |
 
 ---
 
