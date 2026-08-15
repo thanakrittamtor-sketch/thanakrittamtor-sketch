@@ -17,6 +17,8 @@
 | • C/C++ | • บริหารเวลาเป็น (Time Management) |
 | • HTML + CSS | • ควบคุมอารมณ์ตัวเองได้ดี (Emotional Control) |
 | • Security 1 | • มีความยืดหยุ่นในการใช้เทคโนโลยี (Tech Flexibility) |
+| • RoboDK |  |
+
 
 ---
 
