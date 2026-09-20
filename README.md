@@ -5,14 +5,14 @@
 ### Building practical software, automation & robotics systems
 
 <p>
-  <a href="https://portfolio-thanakrit-t.vercel.app/"><strong>↗ View My Portfolio</strong></a>
+  <a href="https://portfolio-thanakrit-t.vercel.app/"><strong>↗ เข้าชม Portfolio</strong></a>
   &nbsp; · &nbsp;
-  <a href="mailto:Thanakrittamtor@gmail.com">Email Me</a>
+  <a href="mailto:Thanakrittamtor@gmail.com">ส่งอีเมล</a>
 </p>
 
 <img src="https://github.com/user-attachments/assets/311c6202-cd82-407d-b754-5245957ea911" width="220" alt="QR Code to Thanakrit's Portfolio" />
 
-<sub>Scan to open my portfolio</sub>
+<sub>สแกนเพื่อเปิด Portfolio ของผม</sub>
 
 </div>
 
@@ -20,11 +20,11 @@
 
 ## ✦ About Me
 
-I am **Thanakrit Tamtor**, an engineering-minded creator based in **Phitsanulok, Thailand**. I enjoy turning ideas into practical experiences across software, industrial automation and robotics.
+ผมชื่อ **ธนกฤต ต่ำต้อ** เป็นผู้สร้างสรรค์ผลงานที่สนใจด้านวิศวกรรม อาศัยอยู่ที่ **จังหวัดพิษณุโลก ประเทศไทย** และชื่นชอบการเปลี่ยนไอเดียให้กลายเป็นผลงานที่ใช้งานได้จริง ทั้งด้านซอฟต์แวร์ ระบบอัตโนมัติในอุตสาหกรรม และหุ่นยนต์
 
-- 🧩 Interested in **Java, Python, C/C++, IoT and PLC automation**
-- 🤖 Exploring **robotics simulation, AI vision and smart manufacturing**
-- 🎯 Focused on building useful systems with clean, thoughtful interfaces
+- 🧩 สนใจด้าน **Java, Python, C/C++, IoT และระบบอัตโนมัติ PLC**
+- 🤖 กำลังศึกษาเรื่อง **การจำลองหุ่นยนต์ ระบบมองเห็นด้วย AI และการผลิตอัจฉริยะ**
+- 🎯 มุ่งเน้นการสร้างระบบที่มีประโยชน์ พร้อมหน้าตาและประสบการณ์ใช้งานที่สะอาดและใส่ใจรายละเอียด
 
 ## 🛠️ Skills & Tools
 
@@ -40,17 +40,17 @@ I am **Thanakrit Tamtor**, an engineering-minded creator based in **Phitsanulok,
 
 | Project | Focus |
 | --- | --- |
-| **Java_App** | Emergency assistance app with automatic Google Maps location sharing |
-| **Box_Folding_Robot** | UR3 Cobot simulation, AI vision and automated carton folding |
-| **IoT check PM2.5** | ESP32 air-quality monitoring and warning station |
+| **Java_App** | แอปพลิเคชันขอความช่วยเหลือฉุกเฉิน พร้อมส่งพิกัด Google Maps โดยอัตโนมัติ |
+| **Box_Folding_Robot** | การจำลองหุ่นยนต์แขนกล UR3 Cobot ระบบมองเห็นด้วย AI และการพับกล่องอัตโนมัติ |
+| **IoT check PM2.5** | สถานีตรวจวัดคุณภาพอากาศและแจ้งเตือน PM2.5 ด้วย ESP32 |
 
-> Explore the full collection, certificates and details on my portfolio.
+> ดูผลงาน ใบประกาศนียบัตร และรายละเอียดทั้งหมดได้ที่ Portfolio ของผม
 
 <div align="center">
 
 ### Ready to explore?
 
-<a href="https://portfolio-thanakrit-t.vercel.app/">**OPEN PORTFOLIO →**</a>
+<a href="https://portfolio-thanakrit-t.vercel.app/"><strong>เปิด Portfolio →</strong></a>
 
 </div>
 
@@ -58,6 +58,6 @@ I am **Thanakrit Tamtor**, an engineering-minded creator based in **Phitsanulok,
 
 ## 📬 Contact
 
-- 📧 **Email:** [Thanakrittamtor@gmail.com](mailto:Thanakrittamtor@gmail.com)
+- 📧 **อีเมล:** [Thanakrittamtor@gmail.com](mailto:Thanakrittamtor@gmail.com)
 - 🌐 **Portfolio:** [portfolio-thanakrit-t.vercel.app](https://portfolio-thanakrit-t.vercel.app/)
-- 💬 **LINE:** [Add me on LINE](https://line.me/ti/p/z4XykCdqXL)
+- 💬 **LINE:** [เพิ่มเพื่อนใน LINE](https://line.me/ti/p/z4XykCdqXL)
