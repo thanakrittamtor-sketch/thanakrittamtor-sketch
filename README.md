@@ -4,11 +4,7 @@
 
 ### Building practical software, automation & robotics systems
 
-<p>
-  <a href="https://portfolio-thanakrit-t.vercel.app/"><strong>↗ เข้าชม Portfolio</strong></a>
-  &nbsp; · &nbsp;
-  <a href="mailto:Thanakrittamtor@gmail.com">ส่งอีเมล</a>
-</p>
+
 
 <img src="https://github.com/user-attachments/assets/311c6202-cd82-407d-b754-5245957ea911" width="220" alt="QR Code to Thanakrit's Portfolio" />
 
