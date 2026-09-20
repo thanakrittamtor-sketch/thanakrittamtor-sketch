@@ -60,5 +60,4 @@ I am **Thanakrit Tamtor**, an engineering-minded creator based in **Phitsanulok,
 
 - 📧 **Email:** [Thanakrittamtor@gmail.com](mailto:Thanakrittamtor@gmail.com)
 - 🌐 **Portfolio:** [portfolio-thanakrit-t.vercel.app](https://portfolio-thanakrit-t.vercel.app/)
-- 💼 **GitHub:** [@thanakrittamtor-sketch](https://github.com/thanakrittamtor-sketch)
 - 💬 **LINE:** [Add me on LINE](https://line.me/ti/p/z4XykCdqXL)
